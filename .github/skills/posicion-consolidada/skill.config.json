@@ -7,7 +7,7 @@
   "inputs": [
     {
       "source": "user-message",
-      "field": "numero_identificacion",
+      "field": "cedula",
       "required": true,
       "description": "Número de identificación (cédula) del cliente, extraído del mensaje del usuario."
     }
@@ -15,7 +15,7 @@
   "outputs": [
     {
       "type": "chat-response",
-      "description": "Resumen consolidado con nombre, dirección y saldo del cliente."
+      "description": "Resumen consolidado con nombre, cedula, dirección y saldo del cliente."
     }
   ],
   "scripts": [

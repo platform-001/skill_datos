@@ -28,7 +28,7 @@ def consultar_info_basica(cedula: str) -> dict:
         "ok": True,
         "data": {
             "nombre": persona["nombre"],
-            "direccion": "No disponible"
+            "direccion": persona.get("direccion", "No disponible")
         }
     }
 

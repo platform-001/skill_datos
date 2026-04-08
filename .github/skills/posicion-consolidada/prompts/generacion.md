@@ -17,9 +17,10 @@ Formato esperado de respuesta:
 ```
 📋 Posición Consolidada
 
-👤 Nombre:     <nombre_completo>
-🏠 Dirección:  <direccion>
-💰 Saldo:      USD <monto>
+    Nombre:     <nombre_completo>
+    Cedula:     <cedula>
+    Dirección:  <direccion>
+    Saldo:      USD <monto>
 ```
 
 En caso de error:

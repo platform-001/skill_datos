@@ -36,9 +36,10 @@ Un resumen consolidado con:
 ```
 📋 Posición Consolidada
 
-👤 Nombre:     Vero García
-🏠 Dirección:  Vive en La Carolina
-💰 Saldo:      USD 1,000.00
+Nombre:     Vero García
+Cedula:     12345679
+Dirección:  Vive en La Carolina
+Saldo:      USD 1,000.00
 ```
 
 ## Criterio de calidad mínimo
