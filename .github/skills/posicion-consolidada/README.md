@@ -37,6 +37,6 @@ pip install requests
 ```
 
 ## Personalización
-- Edita `CLIENTES` en `personas.py` para agregar tus datos reales.
-- Edita `SALDOS` en `saldos.py` para agregar tus saldos reales.
+- Edita `CLIENTES` en `personas.py` para agregar tus datos.
+- Edita `SALDOS` en `saldos.py` para agregar tus saldos.
 
