@@ -1,8 +1,8 @@
 # Checklist de calidad — Skill: Posición Consolidada
 
 ## Antes de usar
-- [ ] Servicio 1 corriendo: `python3 scripts/servicio_info_basica.py`
-- [ ] Servicio 2 corriendo: `python3 scripts/servicio_saldos.py`
+- [ ] Servicio 1 corriendo: `python3 scripts/personas.py`
+- [ ] Servicio 2 corriendo: `python3 scripts/saldos.py`
 - [ ] Dependencia instalada: `pip install requests`
 
 ## Validación de la respuesta

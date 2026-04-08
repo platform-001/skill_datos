@@ -26,8 +26,8 @@ orquestando dos servicios locales en Python.
 - `skill.config.json` — metadatos y configuración.
 - `prompts/generacion.md` — prompt base para Copilot.
 - `scripts/consultar_posicion.py` — orquestador que llama los dos servicios.
-- `scripts/servicio_info_basica.py` — Servicio 1: cédula → nombre y dirección.
-- `scripts/servicio_saldos.py` — Servicio 2: nombre → saldo en USD.
+- `scripts/personas.py` — Servicio 1: cédula → nombre y dirección.
+- `scripts/saldos.py` — Servicio 2: nombre → saldo en USD.
 - `examples/` — entrada y salida de referencia.
 - `CHECKLIST.md` — verificación rápida antes de usar.
 
@@ -37,6 +37,6 @@ pip install requests
 ```
 
 ## Personalización
-- Edita `CLIENTES` en `servicio_info_basica.py` para agregar tus datos reales.
-- Edita `SALDOS` en `servicio_saldos.py` para agregar tus saldos reales.
+- Edita `CLIENTES` en `personas.py` para agregar tus datos reales.
+- Edita `SALDOS` en `saldos.py` para agregar tus saldos reales.
 - Puedes reemplazar los diccionarios por conexiones a tu BD o API real.
