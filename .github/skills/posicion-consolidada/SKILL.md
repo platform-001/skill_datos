@@ -36,7 +36,7 @@ Un resumen consolidado con:
 ```
 📋 Posición Consolidada
 
-Nombre:     Vero García
+Nombre:     Maria García
 Cedula:     12345679
 Dirección:  Vive en La Carolina
 Saldo:      USD 1,000.00
