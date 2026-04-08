@@ -39,4 +39,4 @@ pip install requests
 ## Personalización
 - Edita `CLIENTES` en `personas.py` para agregar tus datos reales.
 - Edita `SALDOS` en `saldos.py` para agregar tus saldos reales.
-- Puedes reemplazar los diccionarios por conexiones a tu BD o API real.
+
